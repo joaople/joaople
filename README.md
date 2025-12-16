@@ -30,7 +30,7 @@ Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atual
    alt="Java"
    title="Java"
    width="30px"
-   style="padding-right: 20px;" 
+   style="padding-right: 50px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 
@@ -39,7 +39,7 @@ Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atual
    alt="MySQL"
    title="MySQL"
    width="30px"
-   style="padding-right: 20px;"
+   style="padding-right: 50px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  
 />
 
@@ -48,7 +48,7 @@ Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atual
    alt="Git"
    title="Git"
    width="30px"
-   style="padding-right: 20px;"
+   style="padding-right: 50px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" 
 />
 
@@ -57,7 +57,7 @@ Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atual
    alt="GitHub"
    title="GitHub"
    width="30px"
-   style="padding-right: 20px;"
+   style="padding-right: 50px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
 
