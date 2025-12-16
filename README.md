@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👨🏻‍💻 João 
 
-<!--
-**joaople/joaople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Academico de Ciençia da computação**
 
-Here are some ideas to get you started:
+Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atualmente, curso Ciência da Computação na UNINASSAU Jockey, estando no 3º período. Sou apaixonado por tecnologia e busco minha primeira oportunidade na área como estagiário, com o objetivo de ingressar no mercado de trabalho e adquirir experiência e conhecimentos profissionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <p align="left">
+      <a href="https://github.com/joaople?tab=followers">
+         <img 
+            alt="Seguidores" 
+            title="Me siga no Github" 
+            src="https://custom-icon-badges.demolab.com/github/followers/joaople?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+          />
+         </a>
+     <a href="https://github.com/Joaople?tab=repositories&sort=stargazers">
+         <img 
+            alt="total de estrelas" 
+            title="Total de estrelas no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Joaople?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+          />
+     </a>
+   </p>
+
+---
+
+ **🤖 Linguagens e Tecnologias** 
+
+<img
+   align="left"
+   alt="Java"
+   title="Java"
+   width="25px"
+   style="padding-right: 20px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
+<img 
+   align="left"
+   alt="MySQL"
+   title="MySQL"
+   width="25px"
+   style="padding-right: 20px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  
+/>
+
+<img 
+   align="left"
+   alt="Git"
+   title="Git"
+   width="25px"
+   style="padding-right: 20px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" 
+/>
+
+<img 
+   align="left"
+   alt="GitHub"
+   title="GitHub"
+   width="25px"
+   style="padding-right: 20px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+/>
+
+<br/>
+
+---
+
+
+**📊 Estatísticas** 
+
+<img 
+   align ="left"
+   alt = "Github Stats"
+   height = "200"
+   style = "padding-right: 10px;"
+   src="https://github-readme-stats.vercel.app/api?username=joaople&show_icons=true&theme=tokyonight&include_all_comits=true&locale=pt-br"
+/>
+
+
+<img 
+   align ="left"
+   alt = "Github Stats"
+   height = "200"
+   style = "padding-right: 10px;"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaople&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
