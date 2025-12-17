@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João 
 
-**Academico de Ciençia da computação**
+***Academico de Ciençia da computação***
 
 Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atualmente, curso Ciência da Computação na UNINASSAU Jockey, estando no 3º período. Sou apaixonado por tecnologia e busco minha primeira oportunidade na área como estagiário, com o objetivo de ingressar no mercado de trabalho e adquirir experiência e conhecimentos profissionais.
 
