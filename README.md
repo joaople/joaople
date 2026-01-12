@@ -76,5 +76,14 @@ Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atual
 
 **📊 Estatísticas** 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaople&show_icons=true&theme=tokynight&locale=pt-br)
+<img 
+   align="left"
+   alt="GitHub"
+   title="GitHub"
+   width="50px"
+   style="padding-right: 50px;"
+   src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg](https://github-readme-stats.vercel.app/api?    username=joaople&show_icons=true&theme=tokynight&locale=pt-br)"
+/>
+
+
 
