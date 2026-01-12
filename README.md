@@ -74,12 +74,5 @@ Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atual
 ---
 
 
-**📊 Estatísticas** 
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaople&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaople&layout=compact&theme=tokyonight" />
-</p>
-
 
 
