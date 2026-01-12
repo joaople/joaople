@@ -32,6 +32,7 @@ Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atual
 
  **🤖 Linguagens e Tecnologias** 
 
+
 <img
    align="left"
    alt="Java"
