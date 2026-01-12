@@ -82,7 +82,7 @@ Meu nome é João Pedro Lima Alves, tenho 19 anos e sou natural do Piauí. Atual
    title="GitHub"
    width="50px"
    style="padding-right: 50px;"
-   src="https://github-readme-stats.vercel.app/api?username=joaople&show_icons=true&theme=tokynight&locale=pt-br)"
+   src="https://github-readme-stats.vercel.app/api?username=joaople&show_icons=true&theme=tokynight&include_all_commits=true&locale=pt-br"
 />
 
 
